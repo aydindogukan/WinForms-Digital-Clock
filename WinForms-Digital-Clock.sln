@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms-Digital-Clock", "WinForms-Digital-Clock.csproj", "{3879B321-F281-4115-B30E-B3AE65569061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3879B321-F281-4115-B30E-B3AE65569061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3879B321-F281-4115-B30E-B3AE65569061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3879B321-F281-4115-B30E-B3AE65569061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3879B321-F281-4115-B30E-B3AE65569061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99AE328D-FB3E-46AB-A32F-C020F3920CC1}
+	EndGlobalSection
+EndGlobal

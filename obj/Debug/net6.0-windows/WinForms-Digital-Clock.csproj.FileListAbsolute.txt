@@ -1,0 +1,17 @@
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Digital-Clock\bin\Debug\net6.0-windows\WinForms-Digital-Clock.exe
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Digital-Clock\bin\Debug\net6.0-windows\WinForms-Digital-Clock.deps.json
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Digital-Clock\bin\Debug\net6.0-windows\WinForms-Digital-Clock.runtimeconfig.json
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Digital-Clock\bin\Debug\net6.0-windows\WinForms-Digital-Clock.dll
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Digital-Clock\bin\Debug\net6.0-windows\WinForms-Digital-Clock.pdb
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Digital-Clock\obj\Debug\net6.0-windows\WinForms-Digital-Clock.csproj.AssemblyReference.cache
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Digital-Clock\obj\Debug\net6.0-windows\WinForms_Digital_Clock.Form1.resources
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Digital-Clock\obj\Debug\net6.0-windows\WinForms-Digital-Clock.csproj.GenerateResource.cache
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Digital-Clock\obj\Debug\net6.0-windows\WinForms-Digital-Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Digital-Clock\obj\Debug\net6.0-windows\WinForms-Digital-Clock.AssemblyInfoInputs.cache
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Digital-Clock\obj\Debug\net6.0-windows\WinForms-Digital-Clock.AssemblyInfo.cs
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Digital-Clock\obj\Debug\net6.0-windows\WinForms-Digital-Clock.csproj.CoreCompileInputs.cache
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Digital-Clock\obj\Debug\net6.0-windows\WinForms-Digital-Clock.dll
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Digital-Clock\obj\Debug\net6.0-windows\refint\WinForms-Digital-Clock.dll
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Digital-Clock\obj\Debug\net6.0-windows\WinForms-Digital-Clock.pdb
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Digital-Clock\obj\Debug\net6.0-windows\WinForms-Digital-Clock.genruntimeconfig.cache
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Digital-Clock\obj\Debug\net6.0-windows\ref\WinForms-Digital-Clock.dll

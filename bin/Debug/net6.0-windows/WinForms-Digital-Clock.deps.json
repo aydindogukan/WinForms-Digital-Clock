@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WinForms-Digital-Clock/1.0.0": {
+        "runtime": {
+          "WinForms-Digital-Clock.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinForms-Digital-Clock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
